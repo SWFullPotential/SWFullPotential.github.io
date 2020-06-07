@@ -36,5 +36,5 @@ permalink:  how_i_got_here
 
 <!-- wp:paragraph -->
 <p>     I kept searching and came upon an app called “Career Karma” which is specifically designed to help people research, apply, and get into a “Bootcamp” that will teach me to become a Software Developer. I jumped right in and began looking into different schools and what they offered. I interviewed at several different schools and they all asked the same thing. Why are you interested in Software Development? My answer was always the same: I want to travel the world and live abroad for at least a year and I need a career that will allow me to do that while at the same time allow me to express creativity and logic at the same time. Software Development is the path I have chosen and I am so excited for the journey that is to come. </p>
-<!-- /wp:paragraph --></div></div>
+<!-- /wp:paragraph -->
 <!-- /wp:group -->
