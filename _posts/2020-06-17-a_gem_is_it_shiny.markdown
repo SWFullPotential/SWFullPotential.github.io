@@ -1,12 +1,11 @@
 ---
 layout: post
 title:      "A Gem?!? Is it shiny?!!!"
-date:       2020-06-18 01:25:57 +0000
+date:       2020-06-17 21:25:58 -0400
 permalink:  a_gem_is_it_shiny
 ---
 
-
-The content of your blog post goes here.<!-- wp:group -->
+<!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:paragraph {"backgroundColor":"background","textColor":"foreground"} -->
 <p class="has-foreground-color has-background-background-color has-text-color has-background">Finally, we are here! At the end of the first module of my Software Development Bootcamp! I feel like we just started, yet so much has happened in the meantime. During orientation when we started this cohort, our educational coach showed us this chart. I guess you could call it a chart. It showed the journey of becoming a Flatiron Graduate. Where when the student first starts they are all excited for what is about to come and can't wait to begin. Then as you go along you encounter something confusing and realize this might actually be hard. You start to doubt yourself and and some start to slip into the depths of despair and begin to believe they can't do it. The way I perceived things when she told us this, was that this was over the course of the entire program, but i'm realizing that is not entirely true. Based on what I just experienced during this first module, I wonder if we will go through these same cycles, yes "despair" included, for each module?? Boy, I hope not!</p>
 <!-- /wp:paragraph -->
